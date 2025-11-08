@@ -78,6 +78,8 @@ Strategic Planning: Helped management make informed decisions regarding staffing
 # Screenshots / Demos
 
 Patient Dashboard: https://github.com/Sneha-Padi0017/Hospital-Dashboard/blob/main/Patient_Dashboard.png
+
+
 Doctor Dashboard: https://github.com/Sneha-Padi0017/Hospital-Dashboard/blob/main/Doctor_Dashboard.png
 
 
