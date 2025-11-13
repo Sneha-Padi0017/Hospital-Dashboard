@@ -1,4 +1,4 @@
-🏥 Hospital Management Dashboard Using PowerBI and MSSQL
+🏥 Hospital Management Analysis Dashboard Project Using PowerBI and MSSQL
 A comprehensive Power BI solution designed to analyze hospital operations across multiple dimensions including patient care, doctor performance, departmental efficiency, and financial health. 
 This dashboard integrates live data from MSSQL to deliver real-time insights that support strategic healthcare decisions.
 
